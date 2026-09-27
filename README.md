@@ -1,4 +1,4 @@
-<!doctype html></style>
+
 </head><body>
 <h1>📚 Semester 5 — 2026</h1>
 <p>Repositori tugas dan praktikum untuk Semester 5, Program Studi Rekayasa Perangkat Lunak (RPL), Universitas Darunnajah Jakarta.</p>
@@ -58,7 +58,6 @@
 </code></pre>
 <hr>
 <h2>👤 Tentang</h2>
-<p><strong>Ateng Sulaeman</strong> (Atsu)
 Mahasiswa RPL Semester 5 — Universitas Darunnajah Jakarta
 🔗 <a href="https://github.com/atengsulaeman">github.com/atengsulaeman</a></p>
 <hr>
