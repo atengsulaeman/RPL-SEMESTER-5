@@ -1,6 +1,6 @@
 
 </head><body>
-<h1>📚 Rekayasa Perangkat Lunak Semester 5 Reguler Sore Hybrit 2026</h1>
+<h1>📚 Rekayasa Perangkat Lunak Semester 5 Sore Hybrit 2026</h1>
 <p>Repositori tugas dan praktikum untuk Semester 5, Program Studi Rekayasa Perangkat Lunak (RPL), Universitas Darunnajah Jakarta.</p>
 <p><img src="https://img.shields.io/badge/status-in%20progress-yellow" alt="Status">
 <img src="https://img.shields.io/badge/semester-5-blue" alt="Semester">
